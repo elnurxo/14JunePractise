@@ -30,9 +30,7 @@ namespace _14JunePractiseP227.Classes
             {
                 if (value.Length>3 && OnlyLetter(value))
                 {
-                    value.ToLower();
-                    Char.ToUpper(value[0]);
-                    _name = value;
+                     _name = CapitalizeName(value);
                 } 
             }
         }
@@ -47,6 +45,18 @@ namespace _14JunePractiseP227.Classes
                 }
             }
             return true;
+        }
+
+        public string CapitalizeName(string name)
+        {
+            string capitalize = "";
+
+            capitalize += Char.ToUpper(name[0]);
+            for (int i = 1; i < name.Length; i++)
+            {
+                capitalize += Char.ToLower(name[i]);
+            }
+            return capitalize;
         }
     }
 }

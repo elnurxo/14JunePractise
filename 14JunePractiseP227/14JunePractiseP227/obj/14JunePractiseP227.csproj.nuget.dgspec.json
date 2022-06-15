@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LENOVO\\Desktop\\P227\\14JunePractiseP227\\14JunePractiseP227\\14JunePractiseP227.csproj": {}
+    "C:\\Users\\LENOVO\\Desktop\\14JunePractise\\14JunePractiseP227\\14JunePractiseP227\\14JunePractiseP227.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LENOVO\\Desktop\\P227\\14JunePractiseP227\\14JunePractiseP227\\14JunePractiseP227.csproj": {
+    "C:\\Users\\LENOVO\\Desktop\\14JunePractise\\14JunePractiseP227\\14JunePractiseP227\\14JunePractiseP227.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LENOVO\\Desktop\\P227\\14JunePractiseP227\\14JunePractiseP227\\14JunePractiseP227.csproj",
+        "projectUniqueName": "C:\\Users\\LENOVO\\Desktop\\14JunePractise\\14JunePractiseP227\\14JunePractiseP227\\14JunePractiseP227.csproj",
         "projectName": "14JunePractiseP227",
-        "projectPath": "C:\\Users\\LENOVO\\Desktop\\P227\\14JunePractiseP227\\14JunePractiseP227\\14JunePractiseP227.csproj",
+        "projectPath": "C:\\Users\\LENOVO\\Desktop\\14JunePractise\\14JunePractiseP227\\14JunePractiseP227\\14JunePractiseP227.csproj",
         "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LENOVO\\Desktop\\P227\\14JunePractiseP227\\14JunePractiseP227\\obj\\",
+        "outputPath": "C:\\Users\\LENOVO\\Desktop\\14JunePractise\\14JunePractiseP227\\14JunePractiseP227\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
